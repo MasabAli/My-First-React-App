@@ -1,0 +1,12 @@
+.sec-6{
+    height: 200px;
+    width: 100%;
+    background-color: rgb(66, 55, 73);
+    margin-top: -50px;
+
+}
+.s1>h1{
+    font-size: 60px;
+    text-align: center;
+    color: rgb(255, 0, 13);
+}

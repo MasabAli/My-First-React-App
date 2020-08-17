@@ -1,0 +1,61 @@
+.sec5{
+    height: 800px;
+    background-color:black;
+    margin-top: -35px;
+}
+.ot>h1{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-weight: lighter;
+}
+.form{
+    color: black;
+}
+.i1{
+    height: 45px;
+    width: 350px;
+    border-radius: 5px;
+    margin-top: 50px;
+    margin-left: 80px;
+    background-color: black;
+    font-size: 16px;
+}
+.i2{
+
+    height: 40px;
+    width: 350px;
+    border-radius: 5px;
+    float: right;
+    margin-right: 510px;
+    margin-top: -50px;
+    background-color: black;
+    font-size: 16px;
+    
+}
+.i3{
+    height: 300px;
+    margin-top: 50px;
+    width: 900px;
+    margin-left: 78px;
+    color: white;
+    background-color: black;
+    font-size: 16px;
+}
+.button{
+    margin-top: 50px;
+    position: relative;
+    margin-left: 50px;
+}
+.c{
+    margin-left: 55px;
+}
+.h{
+    width: 1200px;
+}
+.h5{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}

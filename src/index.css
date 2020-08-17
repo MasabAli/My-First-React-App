@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+}
+.Header{
+  height: 140px;
+  background-color: rgb(24, 23, 23);
+  color: white;
+}
+.H-img >img{
+  height: 90px;
+  margin-left: 120px;
+  margin-top: 22px;
+  float: left;
+}
+.T-b{
+  float: right;
+  color: white;
+  font: bolder;
+  margin-right: 150px;
+  margin-top: 40px;
+
+}
+.T-b > p{
+  font-size: 17px;
+  word-spacing: 25px;
+  font-family: sans-serif;
+}

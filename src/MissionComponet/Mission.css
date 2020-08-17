@@ -1,0 +1,207 @@
+
+.m{
+    height: 620px;
+    background-color:#272933;
+    width: 100%;
+    
+}
+.space{
+    width: 60px;
+    height: 3px;
+    background-color: yellow;
+    
+}
+.text{
+    
+    font-size: 45px;
+    color: white;
+    padding-top: 200px;
+    padding-left: 100px;
+}
+.pp{
+    font-size: 20px;
+    line-height: 25px;
+}
+.sec{
+    height: 300px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: -30px;
+}
+.sec >h1{
+    font-size: 35px;
+    font-weight: lighter;
+    padding-top: 100px;
+}
+.khali{
+    width: 80px;
+    height: 2px;
+    background-color: yellow;
+    margin-left: 630px;
+}
+.sec >p{
+    font-size: 20px;
+    font-weight: lighter;}
+    .sec1{
+        height: 360px;
+        background-color: black;
+    }
+    
+    .p1{
+        height: 300px;
+        width: 650px;
+        background-color: black;
+        float: left;
+    }
+    .p1>h1{
+        text-align: center;
+        font-size: 20px;
+        color: white;
+    }
+    .khali1{
+        width: 80px;
+        height: 2px;
+        background-color: yellow;
+        margin-left: 285px;
+
+    }
+    .p1> p{
+        text-align: center;
+        font-size: 20px;
+        line-height: 25px;
+        color: white;
+    }
+    .p2 {
+        height: 300px;
+        width: 650px;
+        background-color: black;
+        float: right;
+    }
+    .p2>h1{
+        text-align: center;
+        color: white;
+        font-size: 20px;
+    }
+    .khali2{
+        width: 80px;
+        height: 2px;
+        background-color: yellow;
+        margin-left: 285px;
+
+
+    }
+    .p2> p{
+        text-align: center;
+        font-size: 20px;
+        line-height: 25px;
+        color: white;
+    }
+    .sec2{
+        height: 400px;
+        background-color: black;
+        margin-top: -35px;
+    }
+    .sec2>h2{
+        text-align: center;
+        color: white;
+        font-size: 40px;
+    }
+    .khali3{
+        width: 80px;
+        height: 2px;
+        background-color: yellow;
+        margin-left: 630px;
+    }
+    .sec2>p{
+        text-align: center;
+        font-size: 20px;
+        color: white;
+    }
+    .sec3{
+        height: 300px;
+        background-color:black;
+        margin-top: -150px;
+        
+    }
+    .a1 {
+    
+        height: 300px;
+        width: 700px;
+        background-color: black;
+        float: left;
+        
+    }
+    .a1 >p{
+        text-align: center;
+        color: white;
+        font-size: 18px;
+        line-height: 30px;
+    }
+    .a2 {
+    
+        height: 300px;
+        width: 600px;
+        background-color: black;
+        float: right;
+        
+    }
+    .a2 >img{
+        height: 300px;
+        width: 350px;
+        margin-left: 50px;
+       
+    }
+    .sec4{
+        height: 850px;
+        background-color: black;
+        margin-top: -30px;
+        
+    }
+    .sec4 > h1{
+        font-size: 35px;
+        color: white;
+        text-align: center;
+    }
+    .khali4{
+        width: 80px;
+        height: 2px;
+        background-color: yellow;
+        margin-left: 630px;
+    }
+    .sec4 >p{
+        text-align: center;
+        font-size: 25px;
+        color: white;
+    }
+    .t1{
+        height: 300px;
+        width: 700px;
+        background-color:black;
+        float: left;
+
+    }
+    .t1 >p{
+        color: white;
+        text-align: center;
+        font-size: 20px;
+    }
+    .t2{
+        height: 300px;
+        width: 600px;
+        background-color: black;
+        float: right;
+
+    }
+    .t2 >p{
+        color: white;
+        text-align: center;
+        font-size: 20px;
+    }
+    .ai >p{
+        color: white;
+        font-size: 20px;
+        margin-left: 150px;
+    }
+    
